@@ -9,7 +9,7 @@
     An Object would be an actual student created based on the Student Class.
 */
 
-package OOP;
+package OOP.Prerequite;
 
 // Defining the Student class
 class Student {
