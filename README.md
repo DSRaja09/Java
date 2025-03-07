@@ -1,6 +1,6 @@
 # Java
 Learning and making notes on Java
-## Beginners:
+## OOP:
 The explanation is mine (with the help of AI)
 
 I will mainly be following Bro Code Youtube channel
