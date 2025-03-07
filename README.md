@@ -6,4 +6,4 @@ I will go through the basics of OOP, including fundamental concepts like Encapsu
 
 ## GUI:
 ## DSA:
-## Deign Pattern
+## Design Pattern
