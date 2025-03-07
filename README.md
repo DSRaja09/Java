@@ -1,8 +1,9 @@
 # Java
 Learning and making notes on Java
-## Beginners:
-The explanation is mine (with the help of AI)
+## OOP:
 
-I will mainly be following Bro Code Youtube channel
+I will go through the basics of OOP, including fundamental concepts like Encapsulation, Inheritance, Abstraction, Polymorphism, and Interface. And a Project too!!!
 
-link: https://www.youtube.com/watch?v=xk4_1vDrzzo&t=23018s
+## GUI:
+## DSA:
+## Deign Pattern
