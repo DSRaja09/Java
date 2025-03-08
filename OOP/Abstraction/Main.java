@@ -44,7 +44,6 @@ class Dog extends Animal {
     }
 }
 
-// Main class with the execution point
 public class Main {
     public static void main(String[] args) {
         // Creating an object of Dog (allowed because Dog is a concrete class)
