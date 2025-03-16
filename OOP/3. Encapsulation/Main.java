@@ -1,4 +1,3 @@
-// package OOP.Encapsulation;
 
 /*
  * Encapsulation is one of the fundamental concepts of OOP. 
